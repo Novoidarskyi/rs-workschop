@@ -1,2 +1,2 @@
 Some text to my progect.
-Changes from 'master'.
+Changes from 'master' - new changes
